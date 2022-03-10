@@ -2,7 +2,6 @@
 - 🏠 - Based in Wellington, New Zealand
 - ⌨️ - Junior full stack web developer
 - 🍗 - Fried Chicken Advocate
-- 🍹 - If I'm not coding, I'm creating cocktails 
 - 
 - 🌱 - I’m currently learning how to make the perfect roast potatoes
 - 📫 - lets get collaborating, email: ray.letoa@gmail.com
