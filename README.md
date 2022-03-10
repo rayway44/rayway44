@@ -6,9 +6,9 @@
 - 🌱 - I’m currently learning how to make the perfect roast potatoes
 - 📫 - lets get collaborating
 - ✌🏽 - get in touch
-- email: ray.letoa@gmail.com
-- instagram: https://www.instagram.com/ray.letoa44/
-- facebook: https://www.facebook.com/ray.letoa.7
+-   email: ray.letoa@gmail.com
+-   instagram: https://www.instagram.com/ray.letoa44/
+-   facebook: https://www.facebook.com/ray.letoa.7
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayway44&show_icons=true)  
