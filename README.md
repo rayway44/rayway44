@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Ray
+- 👋 - Hey there, I’m Ray
 - 🏠 - Based in Wellington, New Zealand
 - ⌨️ - Junior full stack web developer
 - 🍗 - Fried Chicken Advocate
