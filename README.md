@@ -10,6 +10,10 @@
 - instagram: https://www.instagram.com/ray.letoa44/
 - facebook: https://www.facebook.com/ray.letoa.7
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayway44&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/rayway44)  
 <!---
 rayway44/rayway44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
