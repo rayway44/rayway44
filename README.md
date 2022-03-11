@@ -1,7 +1,8 @@
 - 👋 - Hey there, I’m Ray
 - 🏠 - Based in Wellington, New Zealand
-- ⌨️ - Junior full stack web developer
+- ⌨️ - Full stack web developer
 - 🍗 - Fried Chicken Advocate
+- 🧑🏽‍💻 - Currently learning 'React' - 'AWS' - 'Javascript' - 'JSX'
 
 - 🌱 - I’m currently learning how to make the perfect roast potatoes
 - 📫 - lets get collaborating
